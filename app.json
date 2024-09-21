@@ -16,23 +16,22 @@
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
         "required": true,
-        "value": "6663040181:AAEdRPMg1h8CaImyX5Wf8ERWNdUg8y97S-k"
+        "value": ""
       },
       "API_ID": {
         "description": "Get API_ID from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": "29722120
-          "
+        "value": ""
       },
       "API_HASH": {
         "description": "Get API_HASH from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": "91f3bf8651edfa748856cfcad07f55bb"
+        "value": ""
       },
       "DB_URI": {
         "description": "Your MongoDB connection string.",
         "required": true,
-        "value": "mongodb+srv://helloyeager8:dSaini9485@cluster0.bhqp2fq.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
+        "value": ""
       },
       "DB_NAME": {
         "description": "Your MongoDB database name.",
@@ -42,7 +41,7 @@
       "OWNER_ID": {
         "description": "Your user ID as an integer.",
         "required": false,
-        "value": "1983471689"
+        "value": ""
       },
       "SUPPORT_GROUP": {
         "description": "Your Telegram support group chat username where users can contact in case of a problem..",
